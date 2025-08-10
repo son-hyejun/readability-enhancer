@@ -1,0 +1,14 @@
+body {
+  max-width: 800px !important;
+  margin: auto !important;
+  line-height: 1.6 !important;
+  font-size: 18px !important;
+  font-family: "Segoe UI", "Segoe UI", Tahoma, sans-serif !important;
+  background-color: #fdfdfd !important;
+  color: #222 !important;
+}
+
+p,
+li {
+  margin-bottom: 1em;
+}
